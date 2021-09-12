@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 12.09.2021 13:57:03 : Starting C:/Users/nizol/Desktop/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1678,5533ms
+moved types parse time: 168ms
+candidates parse time : 2ms
+C# parse time         : 781ms
+candidates check time : 115ms
+console write time    : 1ms
+
