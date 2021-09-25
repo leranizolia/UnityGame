@@ -340,3 +340,18 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Additional
+*.csproj
+
+
+
+
+
+
+
+
+
+
+
+
