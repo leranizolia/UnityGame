@@ -1,0 +1,36 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+name girl
+camera 8.0 69.5 -0.11100341540461818 0.1493872002162519 -0.0007225872870977944 1.0
+modifier breast/BreastSize 0.668000
+modifier breast/BreastFirmness 1.000000
+modifier breast/breast-trans-down|up 1.000000
+modifier breast/breast-dist-decr|incr -0.336000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.268000
+modifier macrodetails/African 0.308000
+modifier macrodetails/Asian 0.308000
+modifier macrodetails/Caucasian 0.384000
+modifier macrodetails-universal/Muscle 0.833000
+modifier macrodetails-universal/Weight 0.343000
+modifier macrodetails-height/Height 0.576000
+modifier macrodetails-proportions/BodyProportions 1.000000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+proxy female_generic 84b1a384-1af0-4126-9030-222edb78b318
+hair long01 6c6b0bb1-3608-40b8-9108-4bfd8fa71e39
+eyelashes eyelashes04 efd75993-8de1-43fb-b410-adc203091d25
+skeleton game_engine.mhskel
+eyebrows eyebrow008 79ea307f-a942-40dd-bf50-bbaa41f02034
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes shoes05 8ef14ff4-8547-419c-a495-17bab919568b
+clothes female_casualsuit01 a8b0e841-144b-4f03-8b9e-ea8fdce8c863
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material long01 6c6b0bb1-3608-40b8-9108-4bfd8fa71e39 long01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+material eyebrow008 79ea307f-a942-40dd-bf50-bbaa41f02034 eyebrow008.mhmat
+material eyelashes04 efd75993-8de1-43fb-b410-adc203091d25 eyelashes04.mhmat
+material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False
